@@ -228,3 +228,8 @@ famous_cats.include?("Garfield") #=> false
 
 famous_cats.include?("Maru") #=> true
 ```
+
+## Additional Resources
+
+* [ZetCode on Ruby Arrays](http://zetcode.com/lang/rubytutorial/arrays/)
+* [Ruby Arrays on Tutorials Point](http://www.tutorialspoint.com/ruby/ruby_arrays.htm)
