@@ -121,7 +121,7 @@ We have five of our favorite friends in an array referenced by the local variabl
 
 But what about replacing someone in our speed dial? How could we replace "Kay" in index `1` of `speed_dial` with our new second favorite friend, `"Chipps"`?
 
-To re-assign a value to an index in an array we use the `[]=` syntax. We must supply an index we want to re-assign and then a value for that index. For example:
+To re-assign a value to an index in an array we use the `[ ]=` syntax. We must supply an index we want to re-assign and then a value for that index. For example:
 
 ```ruby
 speed_dial = ["Ada", "Kay", "Matz", "DHH", "Borg"]
