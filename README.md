@@ -217,7 +217,7 @@ famous_wizards = ["Dumbledore", "Gandalf", "Merlin"]
 famous_wizards.reverse #=> ["Merlin", "Gandalf", "Dumbledore"]
 ```
 
-#### The `.include?()` Method
+#### The `.include?` Method
 
 This method will return a boolean of whether or not the array contains (or *includes*) the element submitted to it inside the parentheses:
 
