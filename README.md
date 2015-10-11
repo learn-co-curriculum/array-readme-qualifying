@@ -36,7 +36,7 @@ If this was real life, Professor Snape would probably just write down all the st
 
 An array is like a list but in code form. It is a way for your program to store pieces of data as a *collection*. Arrays can contain any data types in any combination––strings, integers, other arrays, hashes, etc.
 
-Arrays are declared by listing variable names or literals separated by commas (`,`) and wrapped in square brackets `[ ]`. To save our four student from above into an array, we write that in our code like this:
+Arrays are declared by listing variable names or literals separated by commas (`,`) and wrapped in square brackets `[ ]`. To save our four students from above into an array, we write that in our code like this:
 
 ```ruby
 students = ["Harry Potter", "Ron Weasley", "Hermione Granger", "Draco Malfoy"]
@@ -68,7 +68,7 @@ There is an Array class that serves as the blueprint for every array that you wi
 
 To create a new array object from the Array class, you can call `.new` on `Array` – the name of the class. This creates a brand new, empty array. Don't worry about understanding objects and classes, or the `.new` method, just yet. They are all part of something called Object Oriented Programming, which is a big topic. We'll be building up to it through this and the next few units.
 
-To make an array that isn't empty, you can separate each item, known as an element, by a `,` ("comma") and wrap all the elements inside `[]` ("square brackets").
+To make an array that isn't empty, you can separate each item, known as an element, by a `,` ("comma") and wrap all the elements inside `[ ]` ("square brackets").
 
 ```ruby
 puppies = ["bulldog", "terrier", "poodle"]
@@ -85,7 +85,7 @@ It is possible to create an array that contains disparate data types, but that i
 
 ## Retrieving Items from Array
 
-When you write out a list on a notepad, you typically write each item on its own line. Whether or not the list is explicitly numbered, the list has a numerology to it based on the sequence of the lines that the items are listed upon.
+When you write out a list on a notepad, you typically write each item on its own line. Whether or not the list is explicitly numbered, the list has a numerical order to it based on the sequence of the lines that the items are listed upon.
 
 Just like the items in our notepad lists, elements in an array are associated with a number that represents their order. In programming, this number is called an **index**. While humans typically start their lists at "1.", arrays begin their indexes at `0` (zero). So, the first item in array will always be "at index `0`". If we have an array of famous (fictional) cats:
 
@@ -95,7 +95,7 @@ famous_cats = ["Cheshire Cat", "Puss in Boots", "Garfield"]
 
 The `"Cheshire Cat"` is at index `0` in the array, `"Puss in Boots"` is  a index `1`, and `"Garfield"` is at index `2`. Indexes will always be *one less* than the **count**.
 
-To access one of these items in the `famous_cats` array, we can type the name of the array immediately followed by the relevant index number wrapped in square brackets (`[]`).
+To access one of these items in the `famous_cats` array, we can type the name of the array immediately followed by the relevant index number wrapped in square brackets (`[ ]`).
 
 ```ruby
 famous_cats =  ["Cheshire Cat", "Puss in Boots", "Garfield"]
@@ -217,7 +217,7 @@ famous_wizards = ["Dumbledore", "Gandalf", "Merlin"]
 famous_wizards.reverse #=> ["Merlin", "Gandalf", "Dumbledore"]
 ```
 
-#### The `.include?()` Method
+#### The `.include?` Method
 
 This method will return a boolean of whether or not the array contains (or *includes*) the element submitted to it inside the parentheses:
 
