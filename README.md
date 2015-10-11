@@ -95,7 +95,7 @@ famous_cats = ["Cheshire Cat", "Puss in Boots", "Garfield"]
 
 The `"Cheshire Cat"` is at index `0` in the array, `"Puss in Boots"` is  a index `1`, and `"Garfield"` is at index `2`. Indexes will always be *one less* than the **count**.
 
-To access one of these items in the `famous_cats` array, we can type the name of the array immediately followed by the relevant index number wrapped in square brackets (`[]`).
+To access one of these items in the `famous_cats` array, we can type the name of the array immediately followed by the relevant index number wrapped in square brackets (`[ ]`).
 
 ```ruby
 famous_cats =  ["Cheshire Cat", "Puss in Boots", "Garfield"]
