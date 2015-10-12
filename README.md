@@ -131,11 +131,11 @@ speed_dial[1] = "Chipps"
 speed_dial[1] #=> "Chipps"
 ```
 
-Re-assigning a value to an index of an array looks a lot like variable definition and that is by design. Just indicate which index you want to write to with `[ ]`, and then assign it a new value with `=`. The old value is totally forgotten and replaced by the new value.
+Re-assigning a value to an index of an array looks a lot like variable definition and that is by desighttps://learn.co/submissions?assessment_id=102476&assignment_id=43260&lesson_id=12607n. Just indicate which index you want to write to with `[ ]`, and then assign it a new value with `=`. The old value is totally forgotten and replaced by the new value.
 
 ## Manipulating Arrays
 
-If an array is a storage container for a list of data, then we can imaging adding and removing individual items from it. There are several ways to accomplish either.
+If an array is a storage container for a list of data, then we can add and remove individual items from it. There are several ways to accomplish either.
 
 ### Adding Items to an Array
 
