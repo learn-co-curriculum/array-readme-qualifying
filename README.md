@@ -135,7 +135,7 @@ Re-assigning a value to an index of an array looks a lot like variable definitio
 
 ## Manipulating Arrays
 
-If an array is a storage container for a list of data, then we can imaging adding and removing individual items from it. There are several ways to accomplish either.
+If an array is a storage container for a list of data, then we can add and remove individual items from it. There are several ways to accomplish either.
 
 ### Adding Items to an Array
 
