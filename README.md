@@ -230,7 +230,7 @@ famous_cats.include?("Maru") #=> true
 ```
 
 ## Additional Resources
-* [Arrays on CodeAcademy](https://www.codecademy.com/courses/ruby-beginner-en-F3loB/0/1?curriculum_id=5059f8619189a5000201fbcb)
+* [Arrays on Codecademy](https://www.codecademy.com/courses/ruby-beginner-en-F3loB/0/1?curriculum_id=5059f8619189a5000201fbcb)
 * [Ruby Arrays on Zet Code](http://zetcode.com/lang/rubytutorial/arrays/)
 * [Ruby Arrays on Tutorials Point](http://www.tutorialspoint.com/ruby/ruby_arrays.htm)
 
