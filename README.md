@@ -237,3 +237,5 @@ famous_cats.include?("Maru") #=> true
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/array-readme-qualifying' title='Introduction to Arrays'>Introduction to Arrays</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/array-readme-qualifying'>Array Basics</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/array-readme-qualifying'>Array Basics </a> on Learn.co and start learning to code for free.</p>
